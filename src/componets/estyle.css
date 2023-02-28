@@ -1,0 +1,171 @@
+body {
+  background-color:#d3b49c;
+}
+/* background-color: #8b4513;  */
+
+.photu {
+  /* padding: 0px 300px ; */
+  display: flex;
+  margin: auto;
+  height: 300px;
+  width: 450px;
+  border-radius: 30px 30px 0px 0px;
+}
+.name {
+  display: inline;
+  font-family: "Lucida Sans", "senserif";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  color: #ffffff;
+}
+
+.design {
+  margin-top: 5px;
+  font-family: "perpetua", "senserif";
+  font-style: normal;
+  font-weight: 300;
+  color: #c5c5aa;
+  text-align: center;
+}
+
+.divinfo {
+  display: flexbox;
+  background-color: rgba(54, 53, 53, 0.711);
+  height: 400px;
+  width: 450px;
+  padding-top: 35px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  justify-content: center;
+}
+
+.email-btn {
+  border: none;
+  background-image: url(../assets/envelope48.png);
+  background-repeat: no-repeat;
+  /* font-size: 30px; */
+  height: 48px;
+  width: 48px;
+  background-color:rgba(54, 53, 53, 0);
+}
+
+.aboutxt {
+  margin-top: 0;
+  margin-bottom: 5px;
+  padding-left: 50px;
+  text-align: left;
+  font-family: "Lucida Sans", "senserif";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 30px;
+  color: #ffffff;
+}
+
+.about {
+  margin-top: 0;
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: left;
+  font-family: "Lucida Sans", "senserif";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 21px;
+  color: #c5c5aa;
+}
+
+.interest {
+  margin-top: 0;
+  margin-bottom: 5px;
+  padding-left: 50px;
+  text-align: left;
+  font-family: "Lucida Sans", "senserif";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 30px;
+  color: #ffffff;
+}
+
+.interestxt {
+  margin-top: 0;
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: left;
+  font-family: "Lucida Sans", "senserif";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 21px;
+  color: #c5c5aa;
+}
+
+.foot {
+  display: flex;
+  justify-content: space-around;
+  background-color: #272725;
+  height: 55px;
+  width: 450px;
+  padding-top: 3px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center; 
+  
+}
+/* icon #FCC419 bck #272725 */
+
+.twitter-btn {
+  border: none;
+  background-image: url(../assets/twitter50.png);
+  background-repeat: no-repeat;
+  /* font-size: 30px; */
+  height: 50px;
+  width: 50px;
+  background-color: #272725;
+}
+
+.insta-btn {
+  border: none;
+  background-image: url(../assets/insta50.png);
+  background-repeat: no-repeat;
+  /* font-size: 30px; */
+  height: 50px;
+  width: 50px;
+  background-color: #272725;
+}
+
+.facebook-btn {
+  border: none;
+  background-image: url(../assets/fb50.png);
+  background-repeat: no-repeat;
+  /* font-size: 30px; */
+  height: 50px;
+  width: 50px;
+  background-color: #272725;
+}
+
+.linkedin-btn {
+  border: none;
+  background-image: url(../assets/linkedin50.png);
+  background-repeat: no-repeat;
+  /* font-size: 30px; */
+  height: 50px;
+  width: 50px;
+  background-color: #272725;
+}
+
+ /* .github-btn {
+  border: none;
+  background-image: url(../assets/github55.png);
+  background-repeat: no-repeat; */
+  /* font-size: 30px; */
+  /* height: 53px;
+  width: 53px;
+  background-color: #272725;
+} */
+  
+
