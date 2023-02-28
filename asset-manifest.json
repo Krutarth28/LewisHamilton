@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/LewisHamilton/static/css/main.a2d3bfda.css",
+    "main.js": "/LewisHamilton/static/js/main.3043169e.js",
+    "static/media/lewis.jpg": "/LewisHamilton/static/media/lewis.5ebec94e1dc6ab45daae.jpg",
+    "index.html": "/LewisHamilton/index.html",
+    "main.a2d3bfda.css.map": "/LewisHamilton/static/css/main.a2d3bfda.css.map",
+    "main.3043169e.js.map": "/LewisHamilton/static/js/main.3043169e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2d3bfda.css",
+    "static/js/main.3043169e.js"
+  ]
+}
